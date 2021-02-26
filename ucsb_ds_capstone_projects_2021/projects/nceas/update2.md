@@ -9,14 +9,14 @@ Febrauary 28, 2021
 
 
 **Progress**
-- began coworking hours on fridays in addition to our weekly meeting on Mondays
-- workflow of creating R package (documentation, license, github, function ) through the say_aloha (insert link)
+- Began coworking hours on Fridays in addition to our weekly meeting on Mondays so we can have another opportunity to collaborate and share ideas.
+- Workflow of creating R package (documentation, license, github, function ) through the say_aloha (insert link)
 - 
-- each of us created a demo pckge
+- We each created 3 demo packages, 2 with data provided for us, and one where we had to choose our own data source from any give LTER site. 
 - incorporate what we learned in past weeks (github workflow, tidyverse, metajam)  putting them together
-- analyzed couple datasets from sites we are intested in
-- vignettes
-- presented to the rest of the team during weekly meetings
+- Analyzed a couple datasets from sites we are intested in.
+- Large stress on creating vignettes.
+- We began presenting our vignettes and demo packages during our weekly meetings as another form of a progress update. 
 - can be found here (insert five links)
 
 
